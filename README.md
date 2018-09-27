@@ -3,6 +3,8 @@ UNIVERSAL GESTURE REMOTE
 
 This is a project under PES Open Source community. The aim was to build a gesture recognition wrist band capable of recognizing hand gestures of the user and hence control a number of day to day electronic devices wirelessly.
 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+
 Demo - https://www.youtube.com/watch?v=ReSPvCIFZkU
 
 Transmitter
